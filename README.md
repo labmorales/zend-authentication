@@ -1,3 +1,5 @@
+# TESTE COMPOSER 
+
 # zend-authentication
 
 [![Build Status](https://secure.travis-ci.org/zendframework/zend-authentication.svg?branch=master)](https://secure.travis-ci.org/zendframework/zend-authentication)
